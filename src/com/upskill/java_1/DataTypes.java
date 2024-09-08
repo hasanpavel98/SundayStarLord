@@ -36,8 +36,8 @@ public class DataTypes {
 		char j = 'A';
 		boolean k = false;
 		
-		
-		
+		// this line to validate git pr
+		System.out.println("Git Pull Request");
 		
 	}
 
